@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Oracle%20Database-FE5000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 
 ### 🎨 PORTFOLIO
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-22D172?style=flat&logo=Mail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/Mail-22D172?style=flat&logo=Mail&logoColor=white"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-kim9&layout=compact)](https://github.com/delay-100/github-readme-stats)
