@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm!%20suhyun&fontSize=90)
+https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm%20SUHYUN&fontSize=90&width=1000
+
 
 ## Hi there 👋
 <div align=center>
