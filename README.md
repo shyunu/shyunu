@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
