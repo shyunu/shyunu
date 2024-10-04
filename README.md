@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+자바
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun-kim9&show_icons=true&bg_color=00000000)
