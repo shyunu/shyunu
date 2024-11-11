@@ -22,13 +22,13 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-kim9&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyunu&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun-kim9&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyunu&show_icons=true&bg_color=00000000)
 <!--
-**suhyun-kim9/suhyun-kim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shyunu/shyunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
