@@ -25,16 +25,6 @@
 <a href="https://shyunu.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> 
 <a href="mailto:ksh020674@gmail.com"><img src="https://img.shields.io/badge/Gmail-D32D27?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyunu&layout=compact)](https://github.com/delay-100/github-readme-stats)
-
-
-
-![Shyunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyunu&show_icons=true&bg_color=00000000)
-
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
